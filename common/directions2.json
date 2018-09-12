@@ -1,0 +1,407 @@
+{
+    "Right": {
+        "status": "OK",
+        "routes": [
+            {
+                "summary": "大業路/158縣道",
+                "warnings": [],
+                "waypointOrder": [
+                    0,
+                    1
+                ],
+                "legs": [
+                    {
+                        "legDistance": [
+                            0,
+                            "1 公尺"
+                        ],
+                        "legDuration": [
+                            0,
+                            "1 分"
+                        ],
+                        "legStartLocation": [
+                            23.6947054,
+                            23.6947054
+                        ],
+                        "startAddress": "630台灣雲林縣斗南鎮大業路226號",
+                        "steps": [
+                            {
+                                "stepEndLocation": [
+                                    23.6947054,
+                                    23.6947054
+                                ],
+                                "htmlInstructions": "走<b>大業路</b>/<b>158縣道</b>",
+                                "stepDuration": [
+                                    0,
+                                    "1 分"
+                                ],
+                                "stepStartLocation": [
+                                    23.6947054,
+                                    23.6947054
+                                ],
+                                "stepDistance": [
+                                    0,
+                                    "1 公尺"
+                                ]
+                            }
+                        ],
+                        "legEndLocation": [
+                            23.6947054,
+                            23.6947054
+                        ],
+                        "endAddress": "630台灣雲林縣斗南鎮大業路226號"
+                    },
+                    {
+                        "legDistance": [
+                            12486,
+                            "12.5 公里"
+                        ],
+                        "legDuration": [
+                            720,
+                            "12 分"
+                        ],
+                        "legStartLocation": [
+                            23.6947054,
+                            23.6947054
+                        ],
+                        "startAddress": "630台灣雲林縣斗南鎮大業路226號",
+                        "steps": [
+                            {
+                                "stepEndLocation": [
+                                    23.6957092,
+                                    23.6957092
+                                ],
+                                "htmlInstructions": "往<b>西</b>走<b>大業路</b>/<b>158縣道</b><div style=\"font-size:0.9em\">繼續開在158縣道上</div>",
+                                "stepDuration": [
+                                    21,
+                                    "1 分"
+                                ],
+                                "stepStartLocation": [
+                                    23.6947054,
+                                    23.6947054
+                                ],
+                                "stepDistance": [
+                                    221,
+                                    "0.2 公里"
+                                ]
+                            },
+                            {
+                                "stepEndLocation": [
+                                    23.6948984,
+                                    23.6948984
+                                ],
+                                "htmlInstructions": "<b>迴轉</b>",
+                                "stepDuration": [
+                                    31,
+                                    "1 分"
+                                ],
+                                "stepStartLocation": [
+                                    23.6957092,
+                                    23.6957092
+                                ],
+                                "stepDistance": [
+                                    145,
+                                    "0.1 公里"
+                                ]
+                            },
+                            {
+                                "stepEndLocation": [
+                                    23.6930192,
+                                    23.6930192
+                                ],
+                                "htmlInstructions": "靠<b>左</b>繼續走<b>大業路</b>/<b>158縣道</b><div style=\"font-size:0.9em\">經過壇福汽車商行(位於右手邊 700&nbsp;公尺)</div>",
+                                "stepDuration": [
+                                    117,
+                                    "2 分"
+                                ],
+                                "stepStartLocation": [
+                                    23.6948984,
+                                    23.6948984
+                                ],
+                                "stepDistance": [
+                                    915,
+                                    "0.9 公里"
+                                ]
+                            },
+                            {
+                                "stepEndLocation": [
+                                    23.7753636,
+                                    23.7753636
+                                ],
+                                "htmlInstructions": "前方匝道上<b>國道一號</b>/<b>國道1號</b>往<b>西螺</b>方向<div style=\"font-size:0.9em\">收費路段</div>",
+                                "stepDuration": [
+                                    370,
+                                    "6 分"
+                                ],
+                                "stepStartLocation": [
+                                    23.6930192,
+                                    23.6930192
+                                ],
+                                "stepDistance": [
+                                    9777,
+                                    "9.8 公里"
+                                ]
+                            },
+                            {
+                                "stepEndLocation": [
+                                    23.7788008,
+                                    23.7788008
+                                ],
+                                "htmlInstructions": "在<b>230-西螺</b>出口下交流道，朝<b>西螺</b>前進<div style=\"font-size:0.9em\">收費路段</div>",
+                                "stepDuration": [
+                                    42,
+                                    "1 分"
+                                ],
+                                "stepStartLocation": [
+                                    23.7753636,
+                                    23.7753636
+                                ],
+                                "stepDistance": [
+                                    527,
+                                    "0.5 公里"
+                                ]
+                            },
+                            {
+                                "stepEndLocation": [
+                                    23.7791064,
+                                    23.7791064
+                                ],
+                                "htmlInstructions": "分岔路口靠<b>右</b>，循著<b>莿桐</b>的路標走<div style=\"font-size:0.9em\">收費路段</div>",
+                                "stepDuration": [
+                                    8,
+                                    "1 分"
+                                ],
+                                "stepStartLocation": [
+                                    23.7788008,
+                                    23.7788008
+                                ],
+                                "stepDistance": [
+                                    82,
+                                    "82 公尺"
+                                ]
+                            },
+                            {
+                                "stepEndLocation": [
+                                    23.7736894,
+                                    23.7736894
+                                ],
+                                "htmlInstructions": "於<b>縱貫公路</b>/<b>台1線</b>向<b>右</b>轉",
+                                "stepDuration": [
+                                    77,
+                                    "1 分"
+                                ],
+                                "stepStartLocation": [
+                                    23.7791064,
+                                    23.7791064
+                                ],
+                                "stepDistance": [
+                                    676,
+                                    "0.7 公里"
+                                ]
+                            },
+                            {
+                                "stepEndLocation": [
+                                    23.7747789,
+                                    23.7747789
+                                ],
+                                "htmlInstructions": "於<b>雲42鄉道</b>處<b>迴轉</b><div style=\"font-size:0.9em\">目的地在右邊</div>",
+                                "stepDuration": [
+                                    54,
+                                    "1 分"
+                                ],
+                                "stepStartLocation": [
+                                    23.7736894,
+                                    23.7736894
+                                ],
+                                "stepDistance": [
+                                    143,
+                                    "0.1 公里"
+                                ]
+                            }
+                        ],
+                        "legEndLocation": [
+                            23.7747789,
+                            23.7747789
+                        ],
+                        "endAddress": "647台灣雲林縣莿桐鄉137-1"
+                    },
+                    {
+                        "legDistance": [
+                            80532,
+                            "80.5 公里"
+                        ],
+                        "legDuration": [
+                            3429,
+                            "57 分"
+                        ],
+                        "legStartLocation": [
+                            23.7747789,
+                            23.7747789
+                        ],
+                        "startAddress": "647台灣雲林縣莿桐鄉137-1",
+                        "steps": [
+                            {
+                                "stepEndLocation": [
+                                    23.7793213,
+                                    23.7793213
+                                ],
+                                "htmlInstructions": "往<b>西北</b>走<b>縱貫公路</b>/<b>台1線</b>朝<b>雲42鄉道</b>前進",
+                                "stepDuration": [
+                                    70,
+                                    "1 分"
+                                ],
+                                "stepStartLocation": [
+                                    23.7747789,
+                                    23.7747789
+                                ],
+                                "stepDistance": [
+                                    564,
+                                    "0.6 公里"
+                                ]
+                            },
+                            {
+                                "stepEndLocation": [
+                                    23.9772892,
+                                    23.9772892
+                                ],
+                                "htmlInstructions": "靠<b>左</b>行駛，走<b>國道一號</b>/<b>國道1號</b><div style=\"font-size:0.9em\">部分收費路段</div>",
+                                "stepDuration": [
+                                    810,
+                                    "14 分"
+                                ],
+                                "stepStartLocation": [
+                                    23.7793213,
+                                    23.7793213
+                                ],
+                                "stepDistance": [
+                                    22438,
+                                    "22.4 公里"
+                                ]
+                            },
+                            {
+                                "stepEndLocation": [
+                                    23.9564651,
+                                    23.9564651
+                                ],
+                                "htmlInstructions": "於<b>207-埔鹽系統</b>出口下交流道，走<b>台76線</b>，朝<b>員林</b>/<b>草屯</b>前進<div style=\"font-size:0.9em\">部分收費路段</div>",
+                                "stepDuration": [
+                                    907,
+                                    "15 分"
+                                ],
+                                "stepStartLocation": [
+                                    23.9772892,
+                                    23.9772892
+                                ],
+                                "stepDistance": [
+                                    17300,
+                                    "17.3 公里"
+                                ]
+                            },
+                            {
+                                "stepEndLocation": [
+                                    24.0248202,
+                                    24.0248202
+                                ],
+                                "htmlInstructions": "靠<b>左</b>下交流道，走<b>國道3號</b><div style=\"font-size:0.9em\">部分收費路段</div>",
+                                "stepDuration": [
+                                    318,
+                                    "5 分"
+                                ],
+                                "stepStartLocation": [
+                                    23.9564651,
+                                    23.9564651
+                                ],
+                                "stepDistance": [
+                                    8618,
+                                    "8.6 公里"
+                                ]
+                            },
+                            {
+                                "stepEndLocation": [
+                                    24.0259941,
+                                    24.0259941
+                                ],
+                                "htmlInstructions": "於<b>214-霧峰系統</b>出口 (<b>國道6號</b> 出口) 下交流道，朝<b>國興</b>/<b>埔里</b>前進<div style=\"font-size:0.9em\">收費路段</div>",
+                                "stepDuration": [
+                                    24,
+                                    "1 分"
+                                ],
+                                "stepStartLocation": [
+                                    24.0248202,
+                                    24.0248202
+                                ],
+                                "stepDistance": [
+                                    485,
+                                    "0.5 公里"
+                                ]
+                            },
+                            {
+                                "stepEndLocation": [
+                                    23.9796116,
+                                    23.9796116
+                                ],
+                                "htmlInstructions": "接著走<b>國道6號</b><div style=\"font-size:0.9em\">收費路段</div>",
+                                "stepDuration": [
+                                    1168,
+                                    "19 分"
+                                ],
+                                "stepStartLocation": [
+                                    24.0259941,
+                                    24.0259941
+                                ],
+                                "stepDistance": [
+                                    29426,
+                                    "29.4 公里"
+                                ]
+                            },
+                            {
+                                "stepEndLocation": [
+                                    23.9730778,
+                                    23.9730778
+                                ],
+                                "htmlInstructions": "於<b>29-愛蘭</b>出口 (<b>台14線</b> 出口) 下交流道，朝<b>埔里</b>/<b>魚池</b>前進<div style=\"font-size:0.9em\">收費路段</div>",
+                                "stepDuration": [
+                                    93,
+                                    "2 分"
+                                ],
+                                "stepStartLocation": [
+                                    23.9796116,
+                                    23.9796116
+                                ],
+                                "stepDistance": [
+                                    1419,
+                                    "1.4 公里"
+                                ]
+                            },
+                            {
+                                "stepEndLocation": [
+                                    23.9713117,
+                                    23.9713117
+                                ],
+                                "htmlInstructions": "於<b>中山路四段</b>/<b>中潭公路</b>/<b>埔霧公路</b>/<b>台14線</b>向<b>左</b>轉<div style=\"font-size:0.9em\">目的地在右邊</div>",
+                                "stepDuration": [
+                                    39,
+                                    "1 分"
+                                ],
+                                "stepStartLocation": [
+                                    23.9730778,
+                                    23.9730778
+                                ],
+                                "stepDistance": [
+                                    282,
+                                    "0.3 公里"
+                                ]
+                            }
+                        ],
+                        "legEndLocation": [
+                            23.9713117,
+                            23.9713117
+                        ],
+                        "endAddress": "545台灣南投縣埔里鎮中山路四段219號"
+                    }
+                ],
+                "copyrights": "地圖資料©2018 Google"
+            }
+        ]
+    }
+}

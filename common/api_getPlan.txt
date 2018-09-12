@@ -1,0 +1,4 @@
+curl --header "Content-Type: application/json"   --request POST   --data @api_getPlan_test.json   http://localhost:8001/getPlan
+
+
+-- 給目的地地點, 人員資料, 車輛資料, 得車輛安排及剩餘人員

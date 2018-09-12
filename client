@@ -1,0 +1,12 @@
+set -eu
+nix-shell -A shells.ghcjs --run "cabal --project-file=cabal-ghcjs.project --builddir=dist-ghcjs new-build all"
+
+
+builddir=dist-ghcjs/build/x86_64-linux/ghcjs-0.2.1/frontend-0.1.0.0/c/frontend/build/frontend/frontend.jsexe/
+
+stdir=serve/static/
+cp $builddir/* $stdir/
+
+
+
+
